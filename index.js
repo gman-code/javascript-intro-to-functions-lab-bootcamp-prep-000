@@ -14,6 +14,8 @@ function sayHiToGrandma(string) {
   console.log(("I can't hear you!")if `string` is lowercase)
 }
 function sayHiToGrandma(string) {
-  return string("I love you, Grandma.")
+  return string(("YES INDEED!") is `string` is uppercase)
 }
-function 
+function sayHiToGrandma(string) {
+  return string."I love you too", "Grandma.":()
+}
