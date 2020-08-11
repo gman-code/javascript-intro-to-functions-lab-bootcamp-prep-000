@@ -17,5 +17,5 @@ function sayHiToGrandma(string) {
   return string(("YES INDEED!") is `string` is uppercase)
 }
 function sayHiToGrandma(string) {
-  return string."I love you too", "Grandma.":()
+  return string.("I love you too", "Grandma.":)
 }
